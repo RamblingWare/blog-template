@@ -13,7 +13,6 @@
 <#include "/templates/fragment/meta/meta-webapp.ftl">
 
 <!-- Facebook Open Graph -->
-<meta property="fb:app_id" content="${(facebookAppId)!''}"/>
 <meta property="og:url" content="${(url)!''}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:locale" content="en_US"/>
@@ -37,7 +36,7 @@
 <!-- Google+ Schema.org -->
 <meta itemprop="name" content="${(name)!'Oddox'}"/>
 <meta itemprop="description" content="${(description)!'description'}"/>
-<meta itemprop="image" content="/img/icon-512-round.png"/> 
+<meta itemprop="image" content="/img/icon-512-round.png"/>
 
 <link rel="author" href="humans.txt"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
