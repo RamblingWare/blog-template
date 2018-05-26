@@ -11,7 +11,6 @@
 		<a href="/author/" class="w3-hover-text-black" title="Authors">Authors</a>
 	</p>
 	<p>
-		<a class="nounderline" target="_blank" title="Facebook" href="${(facebook)!''}"><span class="icon-facebook w3-xlarge w3-hover-text-indigo"></span></a>&nbsp;&nbsp;
 		<a class="nounderline" target="_blank" title="Twitter" href="${(twitter)!''}"><span class="icon-twitter w3-xlarge w3-hover-text-blue"></span></a>&nbsp;&nbsp;
 		<a class="nounderline" target="_blank" title="GitHub" href="${(github)!''}"><span class="icon-github w3-xlarge w3-hover-text-black"></span></a>&nbsp;&nbsp;
 		<a class="nounderline" target="_blank" title="Email" href="mailto:${(email)!''}"><span class="icon-mail w3-xlarge w3-hover-text-teal"></span></a>&nbsp;&nbsp;

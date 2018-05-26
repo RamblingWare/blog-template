@@ -6,10 +6,9 @@
 	<p class="w3-text-theme w3-small">
 		${(description)!''}
 		<br/><br/>
-		Subscribe for the latest updates!
+		Follow for the latest updates!
 	</p>
-	<ul>	
-		<li><a class="w3-opacity w3-hover-opaque w3-hover-text-indigo w3-padding-4" target="_blank" title="Facebook" href="${(facebook)!''}" style="text-align: left;"><span class="icon-facebook w3-large w3-margin-right"></span>Facebook</a></li>
+	<ul>
 		<li><a class="w3-opacity w3-hover-opaque w3-hover-text-blue w3-padding-4" target="_blank" title="Twitter" href="${(twitter)!''}" style="text-align: left;"><span class="icon-twitter w3-large w3-margin-right"></span>Twitter</a></li>
 		<li><a class="w3-opacity w3-hover-opaque w3-hover-text-black w3-padding-4" target="_blank" title="GitHub" href="${(github)!''}" style="text-align: left;"><span class="icon-github w3-large w3-margin-right"></span>GitHub</a></li>
 		<li><a class="w3-opacity w3-hover-opaque w3-hover-text-teal w3-padding-4" target="_blank" title="Subscribe" href="${(subscribe)!''}" style="text-align: left;"><span class="icon-mail w3-large w3-margin-right"></span>Subscribe</a></li>
@@ -26,6 +25,5 @@
 	 	<li><a class="w3-right w3-opacity w3-hover-opaque w3-hover-text-teal w3-padding-4" target="_blank" title="Subscribe" href="${(subscribe)!''}" style="text-align: left;"><span class="icon-mail w3-large w3-margin-right"></span></a></li>
 		<li><a class="w3-right w3-opacity w3-hover-opaque w3-hover-text-black w3-padding-4" target="_blank" title="GitHub" href="${(github)!''}" style="text-align: left;"><span class="icon-github w3-large w3-margin-right"></span></a></li>
 		<li><a class="w3-right w3-opacity w3-hover-opaque w3-hover-text-blue w3-padding-4" target="_blank" title="Twitter" href="${(twitter)!''}" style="text-align: left;"><span class="icon-twitter w3-large w3-margin-right"></span></a></li>
-		<li><a class="w3-right w3-opacity w3-hover-opaque w3-hover-text-indigo w3-padding-4" target="_blank" title="Facebook" href="${(facebook)!''}" style="text-align: left;"><span class="icon-facebook w3-large w3-margin-right"></span></a></li>
 	</ul>
 </div>
