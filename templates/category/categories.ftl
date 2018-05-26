@@ -26,7 +26,7 @@
 					</#if>
 					<ol>
 					<#list categories as category>
-						<li><a title="${(category.name)!''}" href="/category/${(category.name)!''}">${(category.name)!''}</a>
+						<li><a class="tag w3-round w3-theme-light w3-card w3-hover-light-grey w3-hover-shadow" title="${(category.name)!''}" href="/category/${(category.name)!''}">${(category.name)!''}</a>
 						&nbsp;(${(category.count)!''} posts)
 						</li>
 					</#list>

@@ -26,7 +26,7 @@
 					</#if>
 					<ol>
 					<#list tags as tag>
-						<li><a class="tag w3-round w3-theme w3-hover-light-grey w3-hover-shadow" title="${(tag.name)!''}" href="/tag/${(tag.name)!''}">${(tag.name)!''}</a>
+						<li><a class="tag w3-round w3-theme-l3 w3-hover-light-grey w3-hover-shadow" title="${(tag.name)!''}" href="/tag/${(tag.name)!''}">${(tag.name)!''}</a>
 						&nbsp;(${(tag.count)!''} posts)
 						</li>
 					</#list>
