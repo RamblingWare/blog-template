@@ -16,8 +16,7 @@
 
 			<div id="page-content" class="w3-col m8 l8 w3-container w3-padding">
 
-				<h1><span class="w3-small w3-text-grey w3-right">June 17th, 2017</span>
-				Terms of Use</h1>
+				<h1>Terms of Use</h1>
 				<p>
 					<span class="bold">Defined Terms.</span> As used herein: (1) the
 					terms "you," "your" or "user" refer to any visitor to this website,
@@ -75,9 +74,7 @@
 					at any time, without notice. The modified terms will be posted here
 					along with the effective date of any necessary edits.<br />
 					<br />
-					<span class="bold">Effective Date.</span> June 18th, 2017<br />
-					<br />
-					<span class="bold">Contact.</span> ${(name)!'Oddox'} <a href="mailto:${(email)!''}">${(email)!''}</a>					
+					<span class="bold">Effective Date.</span> June 18th, 2017<br />					
 				</p>
 
 				<br />

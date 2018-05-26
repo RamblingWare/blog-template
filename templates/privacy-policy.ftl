@@ -16,8 +16,7 @@
 
 			<div id="page-content" class="w3-col m8 l8 w3-container w3-padding">
 
-				<h1><span class="w3-small w3-text-grey w3-right">June 17th, 2017</span>
-				Privacy Policy</h1>
+				<h1>Privacy Policy</h1>
 				<p>
 					<span class="bold">Personal Info.</span> This website does not
 					collect or disclose personal information of users. If you choose to
@@ -55,8 +54,6 @@
 					necessary edits.<br />
 					<br />
 					<span class="bold">Effective Date.</span> June 18th, 2017<br />
-					<br />
-					<span class="bold">Contact.</span> ${(name)!'Oddox'} <a href="mailto:${(email)!''}">${(email)!''}</a>
 				</p>
 				
 				<br />
