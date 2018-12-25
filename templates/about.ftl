@@ -28,7 +28,7 @@
 				<br />
 
 				<h2>This Blog is Custom Built</h2>
-				<p> Yep! I have written the code from scratch. I've named the app, <a target="_blank" href="https://oddox.org">Oddox</a>
+				<p> Yep! I have written the code from scratch. I've named the app, <a target="_blank" href="https://github.com/amdelamar/oddox-server/">Oddox</a>
 				and I plan on keeping it free and open-source software. If you'd like to use my code to build yourself a blog too, feel free to do so!
 				But the app has been a work in progress for some time. So if you find any bugs please let me know.
 				</p>
@@ -38,12 +38,12 @@
 				<h2>Report an Issue</h2>
 				<p>
 				If you want to help inform me of any problems with this website, you can open an issue on the
-				<a target="_blank" href="https://github.com/oddoxorg/oddox/">GitHub repo</a>.
+				<a target="_blank" href="https://github.com/amdelamar/oddox-server/">GitHub repo</a>.
 				</p>
 				<p>
-					<a class="w3-btn w3-card w3-round w3-light-grey" target="_blank" href="https://github.com/oddoxorg/oddox/issues"><span class="icon-bug w3-large w3-margin-right"></span>Report Bug</a>
+					<a class="w3-btn w3-card w3-round w3-light-grey" target="_blank" href="https://github.com/amdelamar/oddox-server/issues"><span class="icon-bug w3-large w3-margin-right"></span>Report Bug</a>
 					&nbsp;&nbsp;
-					<a class="w3-btn w3-card w3-round w3-light-grey" target="_blank" href="https://github.com/oddoxorg/oddox/"><span class="icon-embed w3-large w3-margin-right"></span>View Code</a>
+					<a class="w3-btn w3-card w3-round w3-light-grey" target="_blank" href="https://github.com/amdelamar/oddox-server/"><span class="icon-embed w3-large w3-margin-right"></span>View Code</a>
 				</p>
 				<br />
 				<blockquote>"Talk is cheap. Show me the code."<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Linus Torvalds</blockquote>
@@ -51,7 +51,7 @@
 
 
 				<h2>Contact</h2>
-				<p>You can reach me on Twitter or the many other ways listed on my <a href="https://austindelamar.com">homepage</a>.
+				<p>You can reach me on Twitter or the many other ways listed on my <a href="https://amdelamar.com">homepage</a>.
 
 				<br />
 
