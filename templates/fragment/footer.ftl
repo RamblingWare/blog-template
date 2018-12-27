@@ -19,7 +19,7 @@
 	<p class="w3-small w3-margin-0">
 		${(copyright)!''}<br/>
 		Last Updated: ${(lastUpdated)!''}
-	</p>  
+	</p>
 </div>
 <div class="w3-container w3-padding-16 w3-theme-dark no-print">
 	<div class="page w3-small">
@@ -27,7 +27,7 @@
 		<span>
 		<a href="/terms-of-use" title="Terms of Use">Terms</a> |
 		<a href="/privacy-policy" title="Privacy Policy">Privacy</a> |
-		<a target="_Blank" href="https://oddox.org" title="Oddox.org">Powered by Oddox</a>
+		<a target="_Blank" href="https://amdelamar.com/oddox-website/" title="Oddox">Powered by Oddox</a>
 		</span>
 	</div>
 	<div class="w3-right">
