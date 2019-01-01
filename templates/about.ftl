@@ -28,7 +28,7 @@
 				<br />
 
 				<h2>This Blog is Custom Built</h2>
-				<p> Yep! I have written the code from scratch. I've named the app, <a target="_blank" href="https://github.com/amdelamar/oddox-server/">Oddox</a>
+				<p> Yep! I have written the code from scratch. I've named the app, <a target="_blank" href="https://github.com/amdelamar/oddox-server">Oddox</a>
 				and I plan on keeping it free and open-source software. If you'd like to use my code to build yourself a blog too, feel free to do so!
 				But the app has been a work in progress for some time. So if you find any bugs please let me know.
 				</p>
